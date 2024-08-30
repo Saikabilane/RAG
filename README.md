@@ -30,7 +30,7 @@ To set up the Anatomy Education Chatbot locally, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone [https://github.com/your-username/anatomy-education-chatbot.git](https://github.com/Saikabilane/RAG.git)
+   git clone https://github.com/Saikabilane/RAG.git
 
 2. **Navigate to the project directory:**
 
