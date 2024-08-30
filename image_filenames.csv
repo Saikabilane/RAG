@@ -1,13 +1,202 @@
 Image Name,Description
-image1.jpeg,Major Respiratory StructuresThe major respiratory structures span the nasal cavity to the diaphragm.
-image2.jpeg,Thisillustrationshowsfeaturesoftheexternalnose(top)andskeletalfeaturesofthenose(bottom).
-image3.jpeg,Upper Airway
-image4.jpeg,--------
-image5.jpeg,Pseudostratified Ciliated Columnar Epithelium Respiratory epithelium is pseudostratified ciliated columnar epithelium. Seromucous glands provide lubricating mucus.
-image6.jpeg,DivisionsofthePharynxThepharynxisdividedintothreeregions:thenasopharynx and theoropharynx and the laryngopharynx.
-image7.jpeg,LarynxThe larynx extends from the laryngopharynx and the hyoid bone to the trachea.
-image8.jpeg,VocalCordsThetruevocalcordsandvestibularfoldsofthelarynxareviewedinferiorlyfromthelaryngopharynx.
-image9.jpeg,Trachea(a) The tracheal tube is formed by stacked C-shaped pieces of hyaline cartilage.(b)The layer visible in this cross-section of tracheal wall tissue between the hyaline cartilage and the lumen of the trachea is the mucosa which is composed of pseudostratified ciliated columnar epithelium that contains gobletcells.
+image1.jpeg,Major Respiratory Structures The major respiratory structures span the nasal cavity to the diaphragm.
+image2.jpeg,Nose This illustration shows features of the external nose (top) and skeletal features of the nose(bottom).
+image3.jpeg,Upper Airway Several bones that help form the walls of the nasal cavity have air-containing spaces called the paranasal sinuses
+image4.jpeg,---------------
+image5.jpeg,Pseudostratified Ciliated Columnar Epithelium Respiratory epithelium is pseudostratified ciliated columnar epithelium Seromucous glands provide lubricating mucus LM  680.
+image6.jpeg,Divisions of the Pharynx The pharynx is divided into three regions the nasopharynx the oropharynx and the laryngopharynx.
+image7.jpeg,Larynx The larynx extends from the laryngopharynx and the hyoid bone to the trachea.
+image8.jpeg,Vocal Cords The true vocal cords and vestibular folds of the larynx are viewed inferiorly from the laryngopharynx.
+image9.jpeg,Trachea (a) The tracheal tube is formed by stacked C-shaped pieces of hyaline cartilage.
 image10.jpeg,Respiratory Zone Bronchioles lead to alveolar sacs in the respiratory zone where gas exchange occurs.
-image11.jpeg,Structures of the Respiratory Zone (a) The alveolus is responsible for gas exchange. (b) A micrograph shows the alveolar structures within lung tissue. 
+image11.jpeg,Structures of the Respiratory Zone (a) The alveolus is responsible for gas exchange. (b) A micrograph shows the alveolar structures within lung tissue.
 image12.jpeg,Normal and Bronchial Asthma Tissues (a) Normal lung tissue does not have the characteristics of lung tissue during (b) an asthma attack which include thickened mucosa increased mucus-producing goblet cells and eosinophil infiltrates.
+image13.jpeg,---------------------
+image14.jpeg,Gross Anatomy of the Lungs Each lung is composed of smaller units called lobes.
+image15.jpeg,Parietal and Visceral Pleurae of the Lungs The pleurae perform two major functions
+image16.jpeg,Boyle's Law In a gas pressure increases as volume decreases.
+image17.jpeg,Intrapulmonary and Intrapleural Pressure Relationships Alveolar pressure changes during the different phases of the cycle. It equalizes at 760 mm Hg but does not remain at 760 mm Hg.
+image18.jpeg,Inspiration and Expiration Inspiration and expiration occur due to the expansion and contraction of the thoracic cavity respectively.
+image19.jpeg,Respiratory Volumes and Capacities These two graphs show (a) respiratory volumes and (b) the combination of volumes that results in respiratory capacity.
+image20.jpx,-----------------
+image21.jpeg,---------------
+image22.jpeg,Respiratory Centers of the Brain The medulla oblongata contains the dorsal respiratory group (DRG) and the ventral respiratory group (VRG)
+image23.jpeg,Partial and Total Pressures of a Gas Partial pressure is the force exerted by a gas. The sum of the partial pressures of all the gases in a mixture equals the total pressure.
+image24.jpeg,External Respiration In external respiration oxygen diffuses across the respiratory membrane from the alveolus to the capillary whereas carbon dioxide diffuses out of the capillary into the alveolus.
+image25.jpeg,Internal Respiration Oxygen diffuses out of the capillary and into cells whereas carbon dioxide diffuses out of cells and into the capillary.
+image26.jpeg,Hyperbaric Chamber Hyperbaric chamber treatment is based on the behavior of gases
+image27.jpeg,Erythrocyte and Hemoglobin Hemoglobin consists of four subunits each of which contains one molecule of iron.
+image28.jpeg,Oxygen-Hemoglobin Dissociation and Effects of pH and Temperature These three graphs show (a) the relationship between the partial pressure of oxygen and hemoglobin saturation
+image29.jpeg,Oxygen-Hemoglobin Dissociation and Effects of pH and Temperature These three graphs show (b) the effect of pH on the oxygen hemoglobin dissociation curve
+image30.jpeg,Oxygen-Hemoglobin Dissociation and Effects of pH and Temperature These three graphs show the effect of temperature on the oxygen hemoglobin dissociation curve.
+image31.jpeg, Oxygen-Hemoglobin Dissociation Curves in Fetus and Adult Fetal hemoglobin has a greater affinity for oxygen than does adult hemoglobin.
+image32.jpeg,Carbon Dioxide Transport Carbon dioxide is transported by three different methods (a) in erythrocytes (b) after forming carbonic acid (H2CO3 ) which is dissolved in plasma (c) and in plasma.
+image33.jpeg,---------
+image34.jpeg,Development of the Lower Respiratory System
+image35.jpeg,Components of the Digestive System All digestive organs play integral roles in the life-sustaining process of digestion.
+image36.jpeg,Layers of the Alimentary Canal The wall of the alimentary canal has four basic tissue layers: the mucosa submucosa muscularis and serosa.
+image37.jpeg,The Peritoneum A cross-section of the abdomen shows the relationship between abdominal organs and the peritoneum (darker lines).
+image38.jpeg,--------------
+image39.jpeg,Peristalsis Peristalsis moves food through the digestive tract with alternating waves of muscle contraction and relaxation.
+image40.jpeg,Digestive Processes The digestive processes are ingestion propulsion mechanical digestion chemical digestion absorption and defecation.
+image41.jpeg,Mouth The mouth includes the lips tongue palate gums and teeth.
+image42.jpeg,Tongue This superior view of the tongue shows the locations and types of lingual papillae.
+image43.jpeg,Salivary glands The major salivary glands are located outside the oral mucosa and deliver saliva into the mouth through ducts.
+image44.jpeg, Permanent and Deciduous Teeth This figure of two human dentitions shows the arrangement of teeth in the maxilla and mandible and the relationship between the deciduous and permanent teeth.
+image45.jpeg,The Structure of the Tooth This longitudinal section through a molar in its alveolar socket shows the relationships between enamel dentin and pulp.
+image46.jpeg,Pharynx The pharynx runs from the nostrils to the esophagus and the larynx.
+image47.jpeg,Esophagus The upper esophageal sphincter controls the movement of food from the pharynx to the esophagus. The lower esophageal sphincter controls the movement of food from the esophagus to the stomach.
+image48.jpeg, Deglutition Deglutition includes the voluntary phase and two involuntary phases: the pharyngeal phase and the esophageal phase.
+image49.jpeg,---------------------
+image50.jpeg,Stomach The stomach has four major regions: the cardia fundus body and pylorus. The addition of an inner oblique smooth muscle layer gives the muscularis the ability to vigorously churn and mix food.
+image51.jpeg,Histology of the Stomach The stomach wall is adapted for the functions of the stomach. In the epithelium gastric pits lead to gastric glands that secrete gastric juice. The gastric glands (one gland is shown enlarged on the right) contain different types of cells that secrete a variety of enzymes including hydrochloride acid which activates the protein-digesting enzyme pepsin.
+image52.jpeg,----------------
+image53.jpeg,The Three Phases of Gastric Secretion Gastric secretion occurs in three phases: cephalic gastric and intestinal. During each phase the secretion of gastric juice can be stimulated or inhibited.
+image54.jpeg,Small Intestine The three regions of the small intestine are the duodenum jejunum and ileum.
+image55.jpeg,Histology of the Small Intestine (a) The absorptive surface of the small intestine is vastly enlarged by the presence of circular folds villi and microvilli.
+image56.jpeg,----------------
+image57.jpeg,Segmentation Segmentation separates chyme and then pushes it back together mixing it and providing time for digestion and absorption
+image58.jpeg,Large Intestine The large intestine includes the cecum colon and rectum.
+image59.jpeg,Histology of the large Intestine (a) The histologies of the large intestine and small intestine (not shown) are adapted for the digestive functions of each organ.
+image60.jpeg,Teniae Coli Haustra and Epiploic Appendages
+image61.jpeg,---------------
+image62.jpeg,Accessory Organs The liver pancreas and gallbladder are considered accessory digestive organs but their roles in the digestive system are vital.
+image63.jpeg,Microscopic Anatomy of the Liver The liver receives oxygenated blood from the hepatic artery and nutrient-rich deoxygenated blood from the hepatic portal vein.
+image64.jpeg,-------------
+image65.jpeg,Exocrine and Endocrine Pancreas The pancreas has a head a body and a tail. It delivers pancreatic juice to the duodenum through the pancreatic duct.
+image66.jpeg,Gallbladder The gallbladder stores and concentrates bile and releases it into the two-way cystic duct when it is needed by the small intestine.
+image67.jpeg,Digestion and Absorption Digestion begins in the mouth and continues as food travels through the small intestine. Most absorption occurs in the small intestine.
+image68.jpeg, Carbohydrate Digestion Flow Chart Carbohydrates are broken down into their monomers in a series of steps.
+image69.jpeg,Digestion of Protein The digestion of protein begins in the stomach and is completed in the small intestine.
+image70.jpeg,Digestion of Protein Flow Chart Proteins are successively broken down into their amino acid components
+image71.jpeg,Digestive Secretions and Absorption of Water Absorption is a complex process in which nutrients from digested food are harvested.
+image72.jpeg,Lipid Absorption Unlike amino acids and simple sugars lipids are transformed as they are absorbed through epithelial cells.
+image73.jpeg,Structure of ATP Molecule Adenosine triphosphate (ATP) is the energy molecule of the cell. During catabolic reactions ATP is created and energy is stored until needed during anabolic reactions.
+image74.jpeg,Sources of ATP During catabolic reactions proteins are broken down into amino acids lipids are broken down into fatty acids and polysaccharides are broken down into monosaccharides. These building blocks are then used for the synthesis of molecules in anabolic reactions.
+image75.jpeg,Cellular Respiration Cellular respiration oxidizes glucose molecules through glycolysis the Krebs cyclemand oxidative phosphorylation to produce ATP.
+image76.jpeg,Glycolysis Overview During the energy-consuming phase of glycolysis two ATPs are consumed transferring two phosphates to the glucose molecule.
+image77.jpeg,---------------------
+image78.jpeg,Aerobic versus Anaerobic Respiration The process of anaerobic respiration converts glucose into two lactate molecules in the absence of oxygen or within erythrocytes that lack mitochondria. During aerobic respiration glucose is oxidized into two pyruvate molecules.
+image79.jpeg,Krebs Cycle During the Krebs cycle each pyruvate that is generated by glycolysis is converted into a two-carbon acetyl CoA molecule. The acetyl CoA is systematically processed through the cycle and produces high energy NADH FADH2 and ATP molecules.
+image80.jpeg,---------------------
+image81.jpeg,---------------------
+image82.jpeg,Electron T ransport Chain The electron transport chain is a series of electron carriers and ion pumps that are used to pump H+ ions out of the inner mitochondrial matrix.
+image83.jpeg,Carbohydrate Metabolism Carbohydrate metabolism involves glycolysis the Krebs cycle and the electron transport chain.
+image84.jpeg,Gluconeogenesis Gluconeogenesis is the synthesis of glucose from pyruvate lactate glycerol alanine or glutamate.
+image85.jpx,-------------------
+image86.jpeg,Chylomicrons Chylomicrons contain triglycerides cholesterol molecules and other apolipoproteins (protein molecules). They function to carry these water-insoluble molecules from the intestine through the lymphatic system and into the bloodstream which carries the lipids to adipose tissue for storage.
+image87.jpeg,Breakdown of Fatty Acids During fatty acid oxidation triglycerides can be broken down into acetyl CoA molecules and used for energy when glucose levels are low.
+image88.jpeg,Ketogenesis Excess acetyl CoA is diverted from the Krebs cycle to the ketogenesis pathway. This reaction occurs in the mitochondria of liver cells. The result is the production of β-hydroxybutyrate the primary ketone body found in the blood.
+image89.jpeg,Ketone Oxidation When glucose is limited ketone bodies can be oxidized to produce acetyl CoA to be used in the Krebs cycle to generate energy.
+image90.jpeg,Lipid Metabolism Lipids may follow one of several pathways during metabolism. Glycerol and fatty acids follow different pathways.
+image91.jpeg,Digestive Enzymes and Hormones Enzymes in the stomach and small intestine break down proteins into amino acids. HCl in the stomach aids in proteolysis and hormones secreted by intestinal cells direct the digestive processes.
+image92.jpeg,Urea Cycle Nitrogen is transaminated creating ammonia and intermediates of the Krebs cycle. Ammonia is processed in the urea cycle to produce urea that is eliminated through the kidneys.
+image93.jpeg,Energy from Amino Acids Amino acids can be broken down into precursors for glycolysis or the Krebs cycle. Amino acids (in bold) can enter the cycle through more than one pathway.
+image94.jpeg,Catabolic and Anabolic Pathways Nutrients follow a complex pathway from ingestion through anabolism and catabolism to energy production.
+image95.jpeg,Absorptive State During the absorptive state the body digests food and absorbs the nutrients.
+image96.jpeg,Postabsorptive State During the postabsorptive state the body must rely on stored glycogen for energy.
+image97.jpeg,Hypothalamus Controls Thermoregulation The hypothalamus controls thermoregulation.
+image98.jpeg,MyPlate The U.S. Department of Agriculture developed food guidelines called MyPlate to help demonstrate how to maintain a healthy lifestyle.
+image99.jpeg,-------------------
+image100.jpeg,Urine Color Urine volume varies considerably. The normal range is one to two liters per day
+image101.jpeg,Female and Male Urethras The urethra transports urine from the bladder to the outside of the body. This image shows (a) a female urethra and (b) a male urethra
+image102.jpeg,Bladder (a) Anterior cross section of the bladder. (b) The detrusor muscle of the bladder
+image103.jpeg,-------------------------------
+image104.jpeg,Nerves Innervating the Urinary System
+image105.jpeg,Ureter Peristaltic contractions help to move urine through the lumen with contributions from fluid pressure and gravity
+image106.jpeg,--------------------
+image107.jpeg,Kidneys The kidneys are slightly protected by the ribs and are surrounded by fat for protection 
+image108.jpeg,Left Kidney
+image109.jpeg,Blood Flow in the Kidney Nephrons are the “functional units” of the kidney they cleanse the blood and balance the constituents of the circulation.
+image110.jpeg,-------------------
+image111.jpeg,Blood Flow in the Nephron The two capillary beds are clearly shown in this figure. The efferent arteriole is the connecting vessel between the glomerulus and the peritubular capillaries and vasa recta.
+image112.jpeg, Podocytes Podocytes interdigitate with structures called pedicels and filter substances in a way similar to fenestrations.
+image113.jpeg,Fenestrated Capillary Fenestrations allow many substances to diffuse from the blood based primarily on size.
+image114.jpeg,Apparatus and Glomerulus (a) The JGA allows specialized cells to monitor the composition of the fluid in the DCT and adjust the glomerular filtration rate.
+image115.jpeg,Conversion of Angiotensin I to Angiotensin II The enzyme renin converts the pro-enzyme angiotensin I; the lung-derived enzyme ACE converts angiotensin I into active angiotensin II.
+image116.jpeg,Aquaporin Water Channel Positive charges inside the channel prevent the leakage of electrolytes across the cell membrane while allowing water to move due to osmosis.
+image117.jpeg,Net Filtration Pressure The NFP is the sum of osmotic and hydrostatic pressures.
+image118.jpeg,Locations of Secretion and Reabsorption in the Nephron
+image119.jpeg,Substances Reabsorbed and Secreted by the PCT
+image120.jpeg,Reabsorption of Bicarbonate from the PCT
+image121.jpeg,Countercurrent Multiplier System  As discussed above the ascending loop has many Na+ pumps that actively pump Na+ out of the forming urine into the interstitial spaces.
+image122.jpeg,---------------
+image123.jpx,----------------
+image124.jpeg,Nitrogen Wastes  Nitrogen wastes are produced by the breakdown of proteins during normal metabolism
+image125.jpeg,The Enzyme Renin Converts the Pro-enzyme Angiotensin 
+image126.jpeg,Water Content of the Bodys Organs and Tissues Water content varies in different body organs and tissues from as little as 8 percent in the teeth to as much as 85 percent in the brain.
+image127.jpeg,Fluid Compartments in the Human Body The intracellular fluid (ICF) is the fluid within cells. The interstitial fluid (IF) is part of the extracellular fluid (ECF) between the cells.
+image128.jpeg,A Pie Graph Showing the Proportion of Total Body Fluid in Each of the Bodys Fluid Compartments Most of the water in the body is intracellular fluid. The second largest volume is the interstitial fluid which surrounds cells that are not blood cells.
+image129.jpeg,-----------------------------
+image130.jpeg,The Concentrations of Different Elements in Key Bodily Fluids The graph shows the composition of the ICF IF and plasma. The compositions of plasma and IF are similar to one another but are quite different from the composition of the ICF.
+image131.jpeg,The Sodium-Potassium Pump The sodium-potassium pump is powered by ATP to transfer sodium out of the cytoplasm and into the ECF. The pump also transfers potassium out of the ECF and into the cytoplasm. (credit: modification of work by Mariana Ruiz Villarreal)
+image132.jpeg,Capillary Exchange Net filtration occurs near the arterial end of the capillary since capillary hydrostatic pressure (CHP) is greater than blood colloidal osmotic pressure (BCOP).
+image133.jpeg,------------------
+image134.jpeg,Facilitated Diffusion Glucose molecules use facilitated diffusion to move down a concentration gradient through the carrier protein channels in the membrane. (credit: modification of work by Mariana Ruiz Villarreal)
+image135.jpeg,Edema An allergic reaction can cause capillaries in the hand to leak excess fluid that accumulates in the tissues. (credit: Jane Whitney)
+image136.jpeg,A Flowchart Showing the Thirst Response The thirst response begins when osmoreceptors detect a decrease in water levels in the blood.
+image137.jpeg,Antidiuretic Hormone (ADH) ADH is produced in the hypothalamus and released by the posterior pituitary gland. It causes the kidneys to retain water constricts arterioles in the peripheral circulation and affects some social behaviors in mammals.
+image138.jpeg,Aquaporins The binding of ADH to receptors on the cells of the collecting tubule results in aquaporins being inserted into the plasma membrane shown in the lower cell. This dramatically increases the flow of water out of the tubule and into the bloodstream.
+image139.jpeg,-------------------
+image140.jpeg,The Aldosterone Feedback Loop Aldosterone which is released by the adrenal gland facilitates reabsorption of Na+ and thus the reabsorption of water.
+image141.jpeg,The Renin-Angiotensin System Angiotensin II stimulates the release of aldosterone from the adrenal cortex.
+image142.jpeg,The pH Scale This chart shows where many common substances fall on the pH scale.
+image143.jpeg,Respiratory Regulation of Blood pH The respiratory system can reduce blood pH by removing CO2 from the blood.
+image144.jpeg,Conservation of Bicarbonate in the Kidney Tubular cells are not permeable to bicarbonate; thus bicarbonate is conserved rather than reabsorbed. Steps 1 and 2 of bicarbonate conservation are indicated.
+image145.jpeg,Symptoms of Acidosis and Alkalosis Symptoms of acidosis affect several organ systems. Both acidosis and alkalosis can be diagnosed using a blood test.
+image146.jpeg,------------------
+image147.jpeg,Male Reproductive System The structures of the male reproductive system include the testes the epididymides the penis and the ducts and glands that produce and carry semen. Sperm exit the scrotum through the ductus deferens which is bundled in the spermatic cord. The seminal vesicles and prostate gland add fluids to the sperm to create semen.
+image148.jpeg,The Scrotum and Testes This anterior view shows the structures of the scrotum and testes.
+image149.jpeg,Anatomy of the Testis This sagittal view shows the seminiferous tubules the site of sperm production. Formed sperm are transferred to the epididymis where they mature. They leave the epididymis during an ejaculation via the ductus deferens.
+image150.jpeg,Spermatogenesis (a) Mitosis of a spermatogonial stem cell involves a single cell division that results in two identical diploid daughter cells (spermatogonia to primary spermatocyte). Meiosis has two rounds of cell division: primary spermatocyte to secondary spermatocyte and then secondary spermatocyte to spermatid. This produces four haploid daughter cells (spermatids). 
+image151.jpeg,------------------------
+image152.jpeg,Structure of Sperm Sperm cells are divided into a head containing DNA; a mid-piece containing mitochondria; and a tail providing motility . The acrosome is oval and somewhat flattened.
+image153.jpeg,------------------------
+image154.jpeg,Cross-Sectional Anatomy of the Penis Three columns of erectile tissue make up most of the volume of the penis.
+image155.jpeg,Regulation of Testosterone Production The hypothalamus and pituitary gland regulate the production of testosterone and the cells that assist in spermatogenesis.
+image156.jpeg,Female Reproductive System The major organs of the female reproductive system are located inside the pelvic cavity.
+image157.jpeg,The Vulva The external female genitalia are referred to collectively as the vulva.
+image158.jpeg,Oogenesis The unequal cell division of oogenesis produces one to three polar bodies that later degrade as well as a single haploid ovum which is produced only if there is penetration of the secondary oocyte by a sperm cell.
+image159.jpeg,Folliculogenesis (a) The maturation of a follicle is shown in a clockwise direction proceeding from the primordial follicles
+image160.jpeg,Hormonal Regulation of Ovulation The hypothalamus and pituitary gland regulate the ovarian cycle and ovulation. GnRH activates the anterior pituitary to produce LH and FSH which stimulate the production of estrogen and progesterone by the ovaries.
+image161.jpeg,----------------------
+image162.jpeg,----------------------------
+image163.jpeg,Ovaries Uterine Tubes and Uterus This anterior view shows the relationship of the ovaries uterine tubes (oviducts) and uterus.
+image164.jpeg,Hormone Levels in Ovarian and Menstrual Cycles The correlation of the hormone levels and their effects on the female reproductive system is shown in this timeline of the ovarian and menstrual cycles. The menstrual cycle begins at day one with the start of menses. Ovulation occurs around day 14 of a 28-day cycle triggered by the LH surge.
+image165.jpeg,Development of Cervical Cancer In most cases cells infected with the HPV virus heal on their own. In some cases however the virus continues to spread and becomes an invasive cancer.
+image166.jpeg,Anatomy of the Breast During lactation milk moves from the alveoli through the lactiferous ducts to the nipple.
+image167.jpeg,------------------------
+image168.jpeg,Hormones of Puberty During puberty the release of LH and FSH from the anterior pituitary stimulates the gonads to produce sex hormones in both male and female adolescents.
+image169.jpeg,Sperm and the Process of Fertilization Before fertilization hundreds of capacitated sperm must break through the surrounding corona radiata and zona pellucida so that one can contact and fuse with the oocyte plasma membrane.
+image170.jpeg,IVF In vitro fertilization involves egg collection from the ovaries fertilization in a petri dish and the transfer of embryos into the uterus.
+image171.jpeg,-----------------------
+image172.jpeg,-----------------------
+image173.jpeg,Pre-Embryonic Cleavages Pre-embryonic cleavages make use of the abundant cytoplasm of the conceptus as the cells rapidly divide without changing the total volume.
+image174.jpeg,Pre-Embryonic Development Ovulation fertilization pre-embryonic development and implantation occur at specific locations within the female reproductive system in a time span of approximately 1 week.
+image175.jpeg,Implantation During implantation the trophoblast cells of the blastocyst adhere to the endometrium and digest endometrial cells until it is attached securely.
+image176.jpeg,Placenta Previa An embryo that implants too close to the opening of the cervix can lead to placenta previa a condition in which the placenta partially or completely covers the cervix.
+image177.jpeg,Development of the Embryonic Disc Formation of the embryonic disc leaves spaces on either side that develop into the amniotic cavity and the yolk sac.
+image178.jpeg,Germ Layers Formation of the three primary germ layers occurs during the first 2 weeks of development. The embryo at this stage is only a few millimeters in length.
+image179.jpeg,Fates of Germ Layers in Embryo Following gastrulation of the embryo in the third week embryonic cells of the ectoderm mesoderm and endoderm begin to migrate and differentiate into the cell lineages that will give rise to mature organs and organ systems in the infant.
+image180.jpeg,Cross-Section of the Placenta In the placenta maternal and fetal blood components are conducted through the surface of the chorionic villi but maternal and fetal bloodstreams never mix directly.
+image181.jpeg,Placenta This post-expulsion placenta and umbilical cord (white) are viewed from the fetal side.
+image182.jpeg,Neurulation The embryonic process of neurulation establishes the rudiments of the future central nervous system and skeleton.
+image183.jpeg,Embryonic Folding Embryonic folding converts a flat sheet of cells into a hollow tube-like structure.
+image184.jpeg,-----------------------------
+image185.jpeg,Embryo at 7 Weeks An embryo at the end of 7 weeks of development is only 10 mm in length but its developing eyes limb buds and tail are already visible. (This embryo was derived from an ectopic pregnancy.)
+image186.jpeg,Sexual Differentiation Differentiation of the male and female reproductive systems does not occur until the fetal period of development.
+image187.jpeg,Fetal Circulatory System The fetal circulatory system includes three shunts to divert blood from undeveloped and partially functioning organs as well as blood supply to and from the placenta.
+image188.jpeg,------------------------------
+image189.jpeg,Size of Uterus throughout Pregnancy The uterus grows throughout pregnancy to accommodate the fetus.
+image190.jpeg,Linea Nigra The linea nigra a dark medial line running from the umbilicus to the pubis forms during pregnancy and persists for a few weeks following childbirth.
+image191.jpeg,Hormones Initiating Labor A positive feedback loop of hormones works to initiate labor.
+image192.jpeg,Stages of Childbirth The stages of childbirth include Stage 1 early cervical dilation; Stage 2 full dilation and expulsion of the newborn; and Stage 3 delivery of the placenta and associated fetal membranes. 
+image193.jpeg,Neonatal Circulatory System A newborn s circulatory system reconfigures immediately after birth. The three fetal shunts have been closed permanently facilitating blood flow to the liver and lungs.
+image194.jpeg,Let-Down Reflex A positive feedback loop ensures continued milk production as long as the infant continues to breastfeed.
+image195.jpeg,Chromosomal Complement of a Male Each pair of chromosomes contains hundreds to thousands of genes.
+image196.jpeg,Random Segregation In the formation of gametes it is equally likely that either one of a pair alleles from one parent will be passed on to the offspring.
+image197.jpeg,Autosomal Dominant Inheritance Inheritance pattern of an autosomal dominant disorder such as neurofibromatosis is shown in a Punnett square.
+image198.jpeg,Autosomal Recessive Inheritance The inheritance pattern of an autosomal recessive disorder with two carrier parents reflects a 3:1 probability of expression among offspring.
+image199.jpeg,A chart of X-linked dominant inheritance patterns differs depending on whether (a) the father or (b) the mother is affected with the disease.
+image200.jpeg,X-Linked Recessive Inheritance Given two parents in which the father is normal and the mother is a carrier of an X-linked recessive disorder a son would have a 50 percent probability of being affected with the disorder whereas daughters would either be carriers or entirely unaffected.
+image201.jpeg,----------------------------
