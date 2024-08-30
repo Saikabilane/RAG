@@ -30,7 +30,7 @@ To set up the Anatomy Education Chatbot locally, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/anatomy-education-chatbot.git
+   git clone [https://github.com/your-username/anatomy-education-chatbot.git](https://github.com/Saikabilane/RAG.git)
 
 2. **Navigate to the project directory:**
 
@@ -39,16 +39,16 @@ To set up the Anatomy Education Chatbot locally, follow these steps:
 
 3. **Create and activate a virtual environment:**
 
-  ```bash
-  python3 -m venv venv
-  source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
-  ```
+    ```bash
+    python3 -m venv venv
+    source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
+    ```
 
 4. **Install the required dependencies:**
 
-  ```bash
-  pip install -r requirements.txt
-```
+    ```bash
+    pip install -r requirements.txt
+    ```
 
 ## Usage
 
