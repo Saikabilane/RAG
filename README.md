@@ -52,13 +52,18 @@ To set up the Anatomy Education Chatbot locally, follow these steps:
 
 ## Usage
 
-1. **Create a folder:**
+1. **Get your API key:**
+
+    -Get your Gemini API key from (https://aistudio.google.com/app/apikey)
+    -Use the API key in place of "Your-API-key" in my_script.py and st_app.py  
+   
+3. **Create a folder:**
 
    ```bash
    mkdir images
    ```
 
-2. **Run the python files**
+4. **Run the python files**
 
    ```bash
    python imageExtract.py
@@ -70,12 +75,12 @@ To set up the Anatomy Education Chatbot locally, follow these steps:
    python my_script.py
    ```
 
-4. **Run the Application:**
+5. **Run the Application:**
 
    ```bash
    streamlit run .\st_app.py
    ```
-5. **Ask your Queries to the Education Assistant chatbot**
+6. **Ask your Queries to the Education Assistant chatbot**
 
    
 
