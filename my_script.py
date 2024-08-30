@@ -5,7 +5,7 @@ from pypdf import PdfReader
 import pdfplumber
 import streamlit as st
 
-api_key = "AIzaSyBt41MC3ZSxYlBktQH0WN_OFP45Jz7zjYs"
+api_key = "Your-API-key" # Replace with a proper Gemini API key
 genai.configure(api_key = api_key)
 model = genai.GenerativeModel('gemini-1.5-flash')
 filePath = "./anatomy_vol_3_edited_final.pdf"
