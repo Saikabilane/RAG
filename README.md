@@ -41,7 +41,7 @@ To set up the Anatomy Education Chatbot locally, follow these steps:
 
     ```bash
     python3 -m venv venv
-    source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
+    venv\Scripts\activate
     ```
 
 4. **Install the required dependencies:**
