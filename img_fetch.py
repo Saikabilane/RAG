@@ -14,7 +14,7 @@ for page in range(len(texts)):
     count += 1
 
 chroma_client = chromadb.PersistentClient(path="./collection")
-chroma_client.delete_collection(name="images")
+
 img_collection = chroma_client.create_collection(name="images")
 
 img_collection.add(
@@ -28,12 +28,3 @@ def ask_query(prompt):
         n_results=2
     )
     return results['documents']
-
-x = ask_query(input("ask your response"))
-
-if x:
-    results = []
-    for i in x[0]:
-        val = texts.index(i)
-        results.append(pics_loc[int(val)])
-    print(results)
