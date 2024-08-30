@@ -13,11 +13,12 @@ api_key = "AIzaSyBt41MC3ZSxYlBktQH0WN_OFP45Jz7zjYs"
 genai.configure(api_key = api_key)
 model = genai.GenerativeModel('gemini-1.5-flash')
 
-prompt = st.text_input("Enter your query here: ")
-
 chroma_client = chromadb.PersistentClient(path="./collection")
 collections = chroma_client.get_collection(name="my_collection")
 img_collections = chroma_client.get_collection(name="images")
+
+st.title("Education Assistant")
+prompt = st.text_input("Enter your query here: ")
 
 def ask_query(prompt):
     results = collections.query(
@@ -31,18 +32,21 @@ def ask_img(prompt):
         query_texts=[prompt], 
         n_results=1
     )
+    if results["distances"][0][0] >= 1:
+        results = []
+        return results
     return results['documents']
 
 def ask(prompt):
     x = ask_img(prompt=prompt)
+    data = ask_query(prompt)
+    title_res = model.generate_content(f"Provide a appropriate title for the answer {prompt} of content. only that title.")
+    response = model.generate_content(f"Using this data: {data}, answer to this prompt: {prompt}. if you don't find any data, just don't answer the question.")
+    st.header(title_res.text)
+    st.write(response.text)
     if x:
         val = texts.index(x[0][0])
         img = "./images/" + str(pics_loc[int(val)])
         st.image(img)
-    data = ask_query(prompt)
-    response = model.generate_content(f"Using this data: {data}, answer to this prompt: {prompt}.")
-    x = response.text
-    return x
 
-response = ask(prompt=prompt)
-st.write(response)
+ask(prompt=prompt)
