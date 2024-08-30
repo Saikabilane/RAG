@@ -1,6 +1,7 @@
 import google.generativeai as genai
 import chromadb
 chroma_client = chromadb.PersistentClient(path="./collection")
+chroma_client.delete_collection(name = "my_collection")
 from pypdf import PdfReader
 import pdfplumber
 import streamlit as st
