@@ -54,8 +54,8 @@ To set up the Anatomy Education Chatbot locally, follow these steps:
 
 1. **Get your API key:**
 
-    -Get your Gemini API key from (https://aistudio.google.com/app/apikey)
-    -Use the API key in place of "Your-API-key" in my_script.py and st_app.py  
+    - Get your Gemini API key from (https://aistudio.google.com/app/apikey)
+    - Use the API key in place of "Your-API-key" in my_script.py and st_app.py  
    
 3. **Create a folder:**
 
