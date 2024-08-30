@@ -35,7 +35,7 @@ To set up the Anatomy Education Chatbot locally, follow these steps:
 2. **Navigate to the project directory:**
 
    ```bash
-   cd education-assisstant
+   cd education-assistant
 
 3. **Create and activate a virtual environment:**
 
