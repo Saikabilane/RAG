@@ -50,7 +50,7 @@ To set up the Anatomy Education Chatbot locally, follow these steps:
     pip install -r requirements.txt
     ```
 
-## Usage
+## Initial Setup
 
 1. **Get your API key:**
 
@@ -75,12 +75,14 @@ To set up the Anatomy Education Chatbot locally, follow these steps:
    python my_script.py
    ```
 
-5. **Run the Application:**
+## Usage
+
+1. **Run the Application:**
 
    ```bash
    streamlit run .\st_app.py
    ```
-6. **Ask your Queries to the Education Assistant chatbot**
+2. **Ask your Queries to the Education Assistant chatbot**
 
    
 
