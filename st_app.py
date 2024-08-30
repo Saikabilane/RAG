@@ -9,7 +9,7 @@ pics_loc = list(pics_loc)
 texts = pictures['Description']
 texts = list(texts)
 
-api_key = "AIzaSyBt41MC3ZSxYlBktQH0WN_OFP45Jz7zjYs"
+api_key = "Your-API-key" # Replace with a proper Gemini API key
 genai.configure(api_key = api_key)
 model = genai.GenerativeModel('gemini-1.5-flash')
 
