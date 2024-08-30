@@ -36,12 +36,3 @@ for i, image in enumerate(images, start=1):
     
     # Save image name to the list
     image_filenames.append(image_name)
-
-# Write the image filenames to a CSV file
-with open('./image_filenames.csv', mode='w', newline='') as file:
-    writer = csv.writer(file)
-    writer.writerow(["Image Name"])  # Write header
-    for image_name in image_filenames:
-        writer.writerow([image_name])
-
-print("Image filenames saved to image_filenames.csv")
