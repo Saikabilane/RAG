@@ -1,14 +1,8 @@
-import google.generativeai as genai
 import chromadb
 chroma_client = chromadb.PersistentClient(path="./collection")
 from pypdf import PdfReader
-import pdfplumber
-import streamlit as st
 
-api_key = "AIzaSyBt41MC3ZSxYlBktQH0WN_OFP45Jz7zjYs"
-genai.configure(api_key = api_key)
-model = genai.GenerativeModel('gemini-1.5-flash')
-filePath = "./anatomy_vol_3_edited_final.pdf"
+filePath = "./anatomy_vol_3_book_back.pdf"
 
 reader = PdfReader(filePath)
 pages = len(reader.pages)
@@ -22,7 +16,7 @@ for page in range(pages):
     ids.append("id"+str(count))
     count += 1
 
-collection = chroma_client.create_collection(name="my_collection")
+collection = chroma_client.create_collection(name="book_back")
 
 collection.add(
     documents = texts,
