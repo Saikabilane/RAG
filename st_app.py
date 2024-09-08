@@ -3,6 +3,7 @@ import chromadb
 import google.generativeai as genai
 import pandas as pd
 from fpdf import FPDF
+import graphviz
 
 # Load your images and texts
 pictures = pd.read_csv("./image_filenames.csv")
@@ -52,6 +53,30 @@ def ask_img(prompt):
         return results
     return results['documents']
 
+def generate_flowchart(text_description):
+    # Create a new directed graph
+    dot = graphviz.Digraph()
+
+    # Set global attributes for the graph
+    dot.attr(rankdir='LR', size='10,10')  # 'LR' for left-to-right layout, adjust size as needed
+
+    # Add nodes and edges based on the text description
+    lines = text_description.strip().split('\n')
+    for line in lines:
+        if '->' in line:
+            parts = line.split('->')
+            start = parts[0].strip()
+            end = parts[1].strip()
+            dot.node(start, shape='box', style='filled', fillcolor='lightyellow')
+            dot.node(end, shape='box', style='filled', fillcolor='lightyellow')
+            dot.edge(start, end)
+        else:
+            dot.node(line.strip(), shape='box', style='filled', fillcolor='lightyellow')
+
+    # Render the graph to a file
+    output_file = 'flowchart'
+    dot.render(filename=output_file, format='png', cleanup=True)
+
 # Function to get book back questions and generate PDF
 def book_back(prompt):
     data = get_bookBack(prompt=prompt)
@@ -96,6 +121,21 @@ def ask(prompt):
         questions = model.generate_content(f"If the user query, '{prompt}', explicitly asks for book back answers for a specific chapter, respond with only 'Yes'. Otherwise, respond with 'No'.")
         if 'Yes' in questions.text:
             given = book_back(prompt=prompt)
+        flowchart_response = model.generate_content(
+            f"Please check the following user prompt and determine if it is requesting the generation of a flowchart. "
+            f"Respond with 'True' if the prompt specifically asks for a flowchart. "
+            f"Only respond with 'True' if the request is explicit. "
+            f"Otherwise, respond with 'False'. For example, if the prompt is 'Generate a flowchart of the process', return 'True'. "
+            f"If the prompt is 'Describe the process in detail', return 'False'.\n\nUser Prompt: {prompt}"
+        )        
+        if 'True' in flowchart_response.text:
+            flowchart_description = model.generate_content(
+                f"Transform the following {data} into a flowchart format. Ensure each step is correctly connected with arrows ('->') indicating the flow from one step to the next.\n"
+                f"Use the format: 'Step1 -> Step2\nStep2 -> Step3\n... -> End'.\n"
+                f"Each step should be connected to the next with '->' in the order they appear.\n\nData: {data}"
+            )
+            generate_flowchart(flowchart_description.text)
+            st.image("./flowchart.png")
         title_res = model.generate_content(f"Provide an appropriate title for the answer {prompt} of content. only that title.")
         response = model.generate_content(f"Using this data: {data}, answer to this prompt: {prompt}. if you don't find any data, just don't answer the question.")
         st.header(title_res.text)
